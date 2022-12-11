@@ -1,0 +1,5 @@
+C:\Users\gutor\OneDrive\Рабочий стол\учеба\c#\HW5_2\obj\Debug\net6.0\HW5_2.csproj.AssemblyReference.cache
+C:\Users\gutor\OneDrive\Рабочий стол\учеба\c#\HW5_2\obj\Debug\net6.0\HW5_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gutor\OneDrive\Рабочий стол\учеба\c#\HW5_2\obj\Debug\net6.0\HW5_2.AssemblyInfoInputs.cache
+C:\Users\gutor\OneDrive\Рабочий стол\учеба\c#\HW5_2\obj\Debug\net6.0\HW5_2.AssemblyInfo.cs
+C:\Users\gutor\OneDrive\Рабочий стол\учеба\c#\HW5_2\obj\Debug\net6.0\HW5_2.csproj.CoreCompileInputs.cache
